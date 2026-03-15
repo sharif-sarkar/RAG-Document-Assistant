@@ -1,17 +1,5 @@
 # RAG Document Assistant
 
-[![Python](https://img.shields.io/badge/Python-3.9+-blue?logo=python&logoColor=white)](https://www.python.org/)
-[![LangChain](https://img.shields.io/badge/LangChain-Framework-green?logo=chainlink)](https://langchain.com/)
-[![Ollama](https://img.shields.io/badge/Ollama-LLM-000000?logo=ollama)](https://ollama.ai/)
-[![FAISS](https://img.shields.io/badge/FAISS-Vector%20Store-orange)](https://github.com/facebookresearch/faiss)
-[![Streamlit](https://img.shields.io/badge/Streamlit-Web%20UI-red?logo=streamlit)](https://streamlit.io/)
-[![RAG](https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-blueviolet)](https://en.wikipedia.org/wiki/Retrieval-augmented_generation)
-[![CLI](https://img.shields.io/badge/CLI-Interface-gray)](https://en.wikipedia.org/wiki/Command-line_interface)
-[![Pytest](https://img.shields.io/badge/Pytest-Testing-brightgreen?logo=pytest)](https://pytest.org/)
-[![Black](https://img.shields.io/badge/Black-Formatter-black)](https://black.readthedocs.io/)
-[![License](https://img.shields.io/badge/License-MIT-yellow)](LICENSE)
-[![Open Source](https://img.shields.io/badge/Open%20Source-%E2%9D%A4-brightgreen)](#contributing)
-
 A modular RAG-powered document assistant for AI-powered question answering. Supports CLI and Streamlit interfaces with Ollama, LangChain, and FAISS vector search.
 
 ## Features
